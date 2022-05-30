@@ -1,0 +1,19 @@
+segment_sources:
+  IA244069B:
+    type: origin_type
+    relation: translation
+    language: en
+  I0A5F51E1:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  3dc004f88ee04574a396dc75dce3914c:
+    IA244069B: 861d568fffff431d8138818a85acdff7
+    I0A5F51E1: b5b9eff0c3cd4cac9661bfe829a03d4f
+  54912564db864085971dd0f611588c3d:
+    IA244069B: bc3bdd78e0e84259a97c007dee48c659
+    I0A5F51E1: 632c04e7a48943848301c035807060e7
+  8c2906cd96574e80aa5af29326207c25:
+    IA244069B: 64b4f5a08c0f415590f9bdccf3708eb1
+    I0A5F51E1: d8184b9e7f014259b847fa55655dbac8
